@@ -1,0 +1,1 @@
+Merely an array of ISO 4217 Currency Codes as Strings.  Useful for validation.
